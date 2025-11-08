@@ -4,11 +4,6 @@ Me chamo Augusto Filipiak tenho 17 anos e sou iniciante na área de programaçã
 ### BACKEND:
 - JAVA
 - PYTHON
-  
-### FRONTEND:
-- HTML
-- CSS
-- JAVASCRIPT
 
 ### Conecte-se comigo
 

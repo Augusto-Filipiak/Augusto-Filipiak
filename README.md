@@ -10,5 +10,5 @@ Me chamo Augusto Filipiak
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-filipiak-550214356/)
 [![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Augusto-Filipiak)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=e71c18)](mailto:augustofilipiak@gmail.com)
-[![Instagram](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=instagram&logoColor=e71c18)](https://www.instagram.com/augusto_filipiak/)
+[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=e71c18)](https://www.instagram.com/augusto_filipiak/)
 
